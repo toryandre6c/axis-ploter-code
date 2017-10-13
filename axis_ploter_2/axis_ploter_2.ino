@@ -4,6 +4,7 @@ const int dirPin = 9; // define pine 9
  
 void setup() {
   // Sets the  pins as Outputs
+  
   pinMode(stepPin,OUTPUT); 
   pinMode(dirPin,OUTPUT);
 }
